@@ -5,7 +5,7 @@ const ENV = process.env.APP_ENV || 'dev';
 
 const messages = {
   dev: "Hello de l'environnement de DEV",
-  qa: "Bonjour  de l'environnement de QA: It Is A Test",
+  qa: "Bonjour  de l'environnement de QA: It Is A Test V1",
   prod: "Hello de l'environnement de PROD",
 };
 
